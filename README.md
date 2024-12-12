@@ -21,4 +21,4 @@ Ce projet permet d'exécuter des requêtes SPARQL sur DBpedia, une base de donn�
 Clonez ce repository dans votre répertoire local :
 
 ```bash
-git clone https://github.com/votre-utilisateur/sparql-dbpedia.git
+git clone https://github.com/hafsaarrr/sparql-dbpedia.git
